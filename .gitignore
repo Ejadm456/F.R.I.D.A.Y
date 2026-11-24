@@ -1,0 +1,6 @@
+screenshots/
+audio/
+.vscode/
+_pycache__/
+req.txt
+voices/
